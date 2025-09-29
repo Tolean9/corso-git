@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 hello
 new line from dev
